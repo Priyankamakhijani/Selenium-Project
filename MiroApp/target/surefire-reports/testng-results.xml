@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-22T23:06:47Z" name="Surefire suite" finished-at="2021-02-22T23:08:17Z" duration-ms="90315">
+    <groups>
+    </groups>
+    <test started-at="2021-02-22T23:06:47Z" name="Surefire test" finished-at="2021-02-22T23:08:17Z" duration-ms="90315">
+      <class name="com.org.tests.TeamMembershipTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:06:47Z" name="setUp" finished-at="2021-02-23T00:06:58Z" duration-ms="11748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc_01_ViewPlanClick()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:06:58Z" name="tc_01_ViewPlanClick" finished-at="2021-02-23T00:07:03Z" duration-ms="4136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_ViewPlanClick -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:03Z" name="teardown" finished-at="2021-02-23T00:07:04Z" duration-ms="1009" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_01_ViewPlanClick status=SUCCESS method=TeamMembershipTests.tc_01_ViewPlanClick()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:04Z" name="setUp" finished-at="2021-02-23T00:07:14Z" duration-ms="10187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc_03_UpgradeButtonClick()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:14Z" name="tc_03_UpgradeButtonClick" finished-at="2021-02-23T00:07:29Z" duration-ms="15051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_UpgradeButtonClick -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:29Z" name="teardown" finished-at="2021-02-23T00:07:30Z" duration-ms="803" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_03_UpgradeButtonClick status=SUCCESS method=TeamMembershipTests.tc_03_UpgradeButtonClick()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:30Z" name="setUp" finished-at="2021-02-23T00:07:40Z" duration-ms="10576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc_04_CheckForYearlyBillingPeriod()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:40Z" name="tc_04_CheckForYearlyBillingPeriod" finished-at="2021-02-23T00:07:47Z" duration-ms="6721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04_CheckForYearlyBillingPeriod -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:47Z" name="teardown" finished-at="2021-02-23T00:07:48Z" duration-ms="794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_04_CheckForYearlyBillingPeriod status=SUCCESS method=TeamMembershipTests.tc_04_CheckForYearlyBillingPeriod()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:48Z" name="setUp" finished-at="2021-02-23T00:07:58Z" duration-ms="10410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc_05_CheckForMonthlyBillingPeriod()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:07:58Z" name="tc_05_CheckForMonthlyBillingPeriod" finished-at="2021-02-23T00:08:05Z" duration-ms="7155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_05_CheckForMonthlyBillingPeriod -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:08:05Z" name="teardown" finished-at="2021-02-23T00:08:06Z" duration-ms="803" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_05_CheckForMonthlyBillingPeriod status=SUCCESS method=TeamMembershipTests.tc_05_CheckForMonthlyBillingPeriod()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:08:06Z" name="setUp" finished-at="2021-02-23T00:08:16Z" duration-ms="10074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:08:16Z" name="teardown" finished-at="2021-02-23T00:08:17Z" duration-ms="818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_06_CheckCreditCardDetails status=SUCCESS method=TeamMembershipTests.tc_06_CheckCreditCardDetails()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="tc_06_CheckCreditCardDetails()[pri:0, instance:com.org.tests.TeamMembershipTests@3b94d659]" started-at="2021-02-23T00:08:16Z" name="tc_06_CheckCreditCardDetails" finished-at="2021-02-23T00:08:16Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_06_CheckCreditCardDetails -->
+      </class> <!-- com.org.tests.TeamMembershipTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

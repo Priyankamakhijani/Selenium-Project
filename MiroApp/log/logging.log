@@ -1,0 +1,42 @@
+2021-02-23 10:24:06 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:24:10 INFO  UpgradePlan:56 - Clicked the "View"Plan Button
+2021-02-23 10:24:21 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:24:26 INFO  UpgradePlan:101 - Clicked on Upgrade button
+2021-02-23 10:24:47 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:24:52 INFO  UpgradePlan:101 - Clicked on Upgrade button
+2021-02-23 10:24:52 INFO  UpgradePlan:113 - Selected Yearly Option192
+2021-02-23 10:24:52 INFO  UpgradePlan:118 - Yearly Fees Calculated Correct192
+2021-02-23 10:25:04 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:25:04 INFO  UpgradePlan:137 - Selecting Monthly Option
+2021-02-23 10:25:09 INFO  UpgradePlan:101 - Clicked on Upgrade button
+2021-02-23 10:25:10 INFO  UpgradePlan:141 - Total Amount is : 20
+2021-02-23 10:25:10 INFO  UpgradePlan:146 - Monthly Fees Calculated Correct20
+2021-02-23 10:25:22 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:33:44 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:33:48 INFO  UpgradePlan:55 - Clicked the "View"Plan Button
+2021-02-23 10:33:59 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:34:06 INFO  UpgradePlan:98 - Clicked on Upgrade button
+2021-02-23 10:34:27 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:34:32 INFO  UpgradePlan:98 - Clicked on Upgrade button
+2021-02-23 10:34:33 INFO  UpgradePlan:110 - Selected Yearly Option192
+2021-02-23 10:34:33 INFO  UpgradePlan:115 - Yearly Fees Calculated Correct192
+2021-02-23 10:34:45 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:34:45 INFO  UpgradePlan:134 - Selecting Monthly Option
+2021-02-23 10:34:50 INFO  UpgradePlan:98 - Clicked on Upgrade button
+2021-02-23 10:34:51 INFO  UpgradePlan:138 - Total Amount is : 20
+2021-02-23 10:34:51 INFO  UpgradePlan:143 - Monthly Fees Calculated Correct20
+2021-02-23 10:35:03 INFO  StartWebsiteTest:62 - Logged into Miro Website
+2021-02-23 10:48:31 INFO  StartWebsiteTest:69 - Logged into Miro Website
+2021-02-23 10:48:34 INFO  UpgradePlan:55 - Clicked the "View"Plan Button
+2021-02-23 10:48:46 INFO  StartWebsiteTest:69 - Logged into Miro Website
+2021-02-23 10:48:51 INFO  UpgradePlan:98 - Clicked on Upgrade button
+2021-02-23 10:49:12 INFO  StartWebsiteTest:69 - Logged into Miro Website
+2021-02-23 10:49:17 INFO  UpgradePlan:98 - Clicked on Upgrade button
+2021-02-23 10:49:18 INFO  UpgradePlan:110 - Selected Yearly Option192
+2021-02-23 10:49:18 INFO  UpgradePlan:115 - Yearly Fees Calculated Correct192
+2021-02-23 10:49:30 INFO  StartWebsiteTest:69 - Logged into Miro Website
+2021-02-23 10:49:30 INFO  UpgradePlan:134 - Selecting Monthly Option
+2021-02-23 10:49:35 INFO  UpgradePlan:98 - Clicked on Upgrade button
+2021-02-23 10:49:36 INFO  UpgradePlan:138 - Total Amount is : 20
+2021-02-23 10:49:36 INFO  UpgradePlan:143 - Monthly Fees Calculated Correct20
+2021-02-23 10:49:48 INFO  StartWebsiteTest:69 - Logged into Miro Website
